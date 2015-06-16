@@ -1,0 +1,2 @@
+# practiceJS
+for practicing purposes
